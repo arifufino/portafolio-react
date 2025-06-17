@@ -6,7 +6,7 @@ function NombreApellido() {
   return (
     <section className="nombre-apellido">
       <h1>Juan Pérez</h1>
-      <img src="/tu_foto.jpg" alt="Mi Foto" className="foto-personal" />
+      <img src="/foto.jpg" alt="Mi Foto" className="foto-personal" />
     </section>
   );
 }
